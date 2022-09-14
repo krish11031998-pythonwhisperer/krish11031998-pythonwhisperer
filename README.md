@@ -12,7 +12,7 @@ As a result , you can see that my recent projects iOS are in the blockchain real
 
 1. ArtOcean
 
-    It is a NFT marketplace app, that started of as design-study, but evolved into a project that is currently being developed with couple of USPs that leverages Blockchain and state-of-the-art technologies like Mixed Reality.
+    It is a NFT marketplace app, that started of as design-study, but evolved into a project that is currently being developed with couple of USPs that leverages Blockchain and state-of-the-art technologies like Augmented Reality.
    
     For the time being, only a static version of the app (without Augmented Reality) has public access which can seen here : [ArtOcean](https://github.com/krish11031998-pythonwhisperer/ArtOcean)
 
