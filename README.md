@@ -18,9 +18,16 @@ As a result , you can see that my recent projects iOS are in the blockchain real
 
     ![ArtOcean Home Gif](https://github.com/krish11031998-pythonwhisperer/ArtOcean/blob/master/screenshots/HomePage.gif?raw=true)
 
-1. SUI
+2. AR.T 
+    It is a simple Art Exploration app that allows you to explore art in AR format ! you can checkout the project here!
+    ![AR.T](https://github.com/krish11031998-pythonwhisperer/AR.T)
+    ![AR.T AR Gif](https://github.com/krish11031998-pythonwhisperer/AR.T/blob/master/Screenshots/detailARView.gif)
+
+3. SUI
 
     It is a simple to use, config and integrate SwiftUI style library that is can be easily added to your project through cocoapods: [SUI](https://github.com/krish11031998-pythonwhisperer/SUI)
+    
+    
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-venkatramani-969572121/)
