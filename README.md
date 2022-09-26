@@ -39,13 +39,13 @@ I have also built projects for different fields ranging from Image Processing , 
 
     This is a Image Processing Porject that was built on Python to leverage Image Processing to monitor the health of the plant by evaluating the metrics liike NDVI of the plants. More description available in the repo : [NDVI](https://github.com/krish11031998-pythonwhisperer/NDVI_GNDVI_ImageProcessing)
 
-##Backend
+## Backend
 
 5. CrybseServer
 
     It is a simple server I built on golang (GoFiber) a News-Media aggregator used to retrieve tweets, cryptocurrency pricing , news articles, videos and every media related to crypto. this project was built to complement the iOS App (which is currently under development) , The backend will be up and running by the mid-Oct on railway.app as a Beta release along with the iOS App: [CrybseServer](https://github.com/krish11031998-pythonwhisperer/CrybseServer)
 
-##Web Dev
+## Web Dev
 
 6. Food Recipe Web Application 
 
