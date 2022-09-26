@@ -31,7 +31,7 @@ As a result , you can see that my recent projects iOS are in the blockchain real
    
 4. NDVI Image Processing Project
 
-    This is a Image Processing Porject that was built on Python to leverage Image Processing to monitor the health of the plant by evaluating the metrics liike NDVI of the plants. More description available in the repo : (NDVI)[https://github.com/krish11031998-pythonwhisperer/NDVI_GNDVI_ImageProcessing]
+    This is a Image Processing Porject that was built on Python to leverage Image Processing to monitor the health of the plant by evaluating the metrics liike NDVI of the plants. More description available in the repo : [NDVI](https://github.com/krish11031998-pythonwhisperer/NDVI_GNDVI_ImageProcessing)
     
 5. Food Recipe Web Application 
 
