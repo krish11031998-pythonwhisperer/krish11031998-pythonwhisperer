@@ -31,15 +31,15 @@ As a result , you can see that my recent projects iOS are in the blockchain real
    
 4. Food Recipe Web Application 
 
-It is a simple food recipe web application built on vanilla JS, CSS and HTML : [Food Recipe App](https://github.com/krish11031998-pythonwhisperer/Recipe_app)
+    It is a simple food recipe web application built on vanilla JS, CSS and HTML : [Food Recipe App](https://github.com/krish11031998-pythonwhisperer/Recipe_app)
 
 5. BudgetTracker App
 
-It is a financial Budget tracking web application built on ReactJS , CSS and HTML : [BudgetTrackerApp](https://github.com/krish11031998-pythonwhisperer/Recipe_app)
+    It is a financial Budget tracking web application built on ReactJS , CSS and HTML : [BudgetTrackerApp](https://github.com/krish11031998-pythonwhisperer/Recipe_app)
 
 6. CrybseServer
 
-It is a simple server I built on golang (GoFiber) a News-Media aggregator used to retrieve tweets, cryptocurrency pricing , news articles, videos and every media related to crypto. this project was built to complement the iOS App (which is currently under development) , The backend will be up and running by the mid-Oct on railway.app as a Beta release along with the iOS App: [CrybseServer](https://github.com/krish11031998-pythonwhisperer/CrybseServer)
+    It is a simple server I built on golang (GoFiber) a News-Media aggregator used to retrieve tweets, cryptocurrency pricing , news articles, videos and every media related to crypto. this project was built to complement the iOS App (which is currently under development) , The backend will be up and running by the mid-Oct on railway.app as a Beta release along with the iOS App: [CrybseServer](https://github.com/krish11031998-pythonwhisperer/CrybseServer)
     
 
 ## 🔗 Links
