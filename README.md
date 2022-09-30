@@ -14,7 +14,14 @@ I have also built projects for different fields ranging from Image Processing , 
 
 ## iOS
 
-1. ArtOcean
+1. Signal (Development still underprocess)
+    Signal is a Cryptocurrency News Aggregator that aggreates news from:
+        - Twitter
+        - News Articles
+        - Youtube Videos
+![Signal](https://github.com/krish11031998-pythonwhisperer/Signal)
+
+2. ArtOcean
 
     It is a NFT marketplace app, that started of as design-study, but evolved into a project that is currently being developed with couple of USPs that leverages Blockchain and state-of-the-art technologies like Augmented Reality.
    
@@ -22,14 +29,14 @@ I have also built projects for different fields ranging from Image Processing , 
 
     ![ArtOcean Home Gif](https://github.com/krish11031998-pythonwhisperer/ArtOcean/blob/master/screenshots/HomePage.gif?raw=true)
 
-2. AR.T 
+3. AR.T 
     It is a simple Art Exploration app that allows you to explore art in AR format ! you can checkout the project here!
     [AR.T](https://github.com/krish11031998-pythonwhisperer/AR.T)
     
     
     ![AR.T AR Gif](https://github.com/krish11031998-pythonwhisperer/AR.T/blob/master/Screenshots/detailARView.gif)
 
-3. SUI
+4. SUI
 
     It is a simple to use, config and integrate SwiftUI style library that is can be easily added to your project through cocoapods: [SUI](https://github.com/krish11031998-pythonwhisperer/SUI)
 
