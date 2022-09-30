@@ -3,7 +3,7 @@
 
 Hi 👋
 
-My name is Krishna Venkatramani , I am an Junior Developer with an life-time objective to develop solutions to cater to the society's needs.
+My name is Krishna Venkatramani , I am an iOS Developer with an life-time objective to develop solutions to cater to the society's needs.
 
 With my recent experience in a cryptocurrency market , I have developed a strong fascination towards to the Blockchain space and my eagerness to contribute to the Blockchain space.
 As a result , you can see that my recent projects iOS are in the blockchain realm
