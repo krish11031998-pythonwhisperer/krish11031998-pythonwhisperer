@@ -34,7 +34,8 @@ I have also built projects for different fields ranging from Image Processing , 
     ![ArtOcean Home Gif](https://github.com/krish11031998-pythonwhisperer/ArtOcean/blob/master/screenshots/HomePage.gif?raw=true)
 
 3. AR.T 
-    [AR.T](https://github.com/krish11031998-pythonwhisperer/AR.T).T is an art eploration app that allows you to explore art in AR format ! you can checkout the project here!
+    
+    [AR.T](https://github.com/krish11031998-pythonwhisperer/AR.T) is an art eploration app that allows you to explore art in AR format ! you can checkout the project here!
     
     ![AR.T AR Gif](https://github.com/krish11031998-pythonwhisperer/AR.T/blob/master/Screenshots/detailARView.gif)
 
