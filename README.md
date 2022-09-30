@@ -15,7 +15,8 @@ I have also built projects for different fields ranging from Image Processing , 
 ## iOS
 
 1. Signal (Development still underprocess)
-    [Signal](https://github.com/krish11031998-pythonwhisperer/Signal) is a Cryptocurrency News Aggregator that aggreates news from:
+   
+   [Signal](https://github.com/krish11031998-pythonwhisperer/Signal) is a Cryptocurrency News Aggregator that aggreates news from:
         - Twitter
         - News Articles
         - Youtube Videos
