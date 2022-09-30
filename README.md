@@ -14,7 +14,7 @@ I have also built projects for different fields ranging from Image Processing , 
 
 ## iOS
 
-1. Signal (Development still underprocess)
+1. Signal (Still Under development)
    
    [Signal](https://github.com/krish11031998-pythonwhisperer/Signal) is a Cryptocurrency News Aggregator that aggreates news from:
         - Twitter
