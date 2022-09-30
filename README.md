@@ -20,6 +20,7 @@ I have also built projects for different fields ranging from Image Processing , 
         - Twitter
         - News Articles
         - Youtube Videos
+     
 ![Headlines Page](https://github.com/krish11031998-pythonwhisperer/Signal/blob/main/Screenshot/Headlines.png?raw=true)
 
 2. ArtOcean
