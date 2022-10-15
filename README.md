@@ -16,7 +16,15 @@ I have also built projects for different fields ranging from Image Processing , 
 
 ## iOS
 
-1. Signal (Still Under development)
+### Zeam Finance
+Zeam Finance is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
+where we were building an platform that offered payments solutions that can be easily adopted by SMEs which offers a seamless payment experience 
+while providing cashback reward that rewards users with our custom made cryptocurrency.
+
+We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/urn:li:activity:6986773305231872000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6986773305231872000%29)
+
+
+### Signal (Still Under development)
    
    [Signal](https://github.com/krish11031998-pythonwhisperer/Signal) is a Cryptocurrency News Aggregator that aggreates news from:
         - Twitter
@@ -25,7 +33,7 @@ I have also built projects for different fields ranging from Image Processing , 
      
 ![Headlines Page](https://github.com/krish11031998-pythonwhisperer/Signal/blob/main/Screenshot/Headlines.png?raw=true)
 
-2. ArtOcean
+### ArtOcean
 
     It is a NFT marketplace app, that started of as design-study, but evolved into a project that is currently being developed with couple of USPs that leverages Blockchain and state-of-the-art technologies like Augmented Reality.
    
@@ -33,13 +41,13 @@ I have also built projects for different fields ranging from Image Processing , 
 
     ![ArtOcean Home Gif](https://github.com/krish11031998-pythonwhisperer/ArtOcean/blob/master/screenshots/HomePage.gif?raw=true)
 
-3. AR.T 
+### AR.T 
     
     [AR.T](https://github.com/krish11031998-pythonwhisperer/AR.T) is an art eploration app that allows you to explore art in AR format ! you can checkout the project here!
     
     ![AR.T AR Gif](https://github.com/krish11031998-pythonwhisperer/AR.T/blob/master/Screenshots/detailARView.gif)
 
-4. SUI
+### SUI
 
     [SUI](https://github.com/krish11031998-pythonwhisperer/SUI) is an  is a simple to use, configure, and integrate SwiftUI style library that can be easily added to your project through cocoapods.
 
