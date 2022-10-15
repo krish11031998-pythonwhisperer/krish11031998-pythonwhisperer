@@ -17,12 +17,13 @@ I have also built projects for different fields ranging from Image Processing , 
 ## iOS
 
 ### Zeam Finance
-Zeam Finance is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
+[Zeam Finance](https://github.com/krish11031998-pythonwhisperer/ZeamFinance) is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
 where we were building an platform that offered payments solutions that can be easily adopted by SMEs which offers a seamless payment experience 
 while providing cashback reward that rewards users with our custom made cryptocurrency.
 
 We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/urn:li:activity:6986773305231872000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6986773305231872000%29)
 
+![QR Code Payment](https://github.com/krish11031998-pythonwhisperer/ZeamFinance/blob/master/Screenshots/QRPayment.gif?raw=true)
 
 ### Signal (Still Under development)
    
