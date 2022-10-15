@@ -35,22 +35,21 @@ We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/ur
 ![Headlines Page](https://github.com/krish11031998-pythonwhisperer/Signal/blob/main/Screenshot/Headlines.png?raw=true)
 
 ### ArtOcean
-
-    It is a NFT marketplace app, that started of as design-study, but evolved into a project that is currently being developed with couple of USPs that leverages Blockchain and state-of-the-art technologies like Augmented Reality.
+   It is a NFT marketplace app, that started of as design-study, but evolved into a project that is currently being developed with couple of USPs that leverages Blockchain and state-of-the-art technologies like Augmented Reality.
    
-    For the time being, only a static version of the app (without Augmented Reality) has public access which can seen here : [ArtOcean](https://github.com/krish11031998-pythonwhisperer/ArtOcean)
+   For the time being, only a static version of the app (without Augmented Reality) has public access which can seen here : [ArtOcean](https://github.com/krish11031998-pythonwhisperer/ArtOcean)
 
-    ![ArtOcean Home Gif](https://github.com/krish11031998-pythonwhisperer/ArtOcean/blob/master/screenshots/HomePage.gif?raw=true)
+   ![ArtOcean Home Gif](https://github.com/krish11031998-pythonwhisperer/ArtOcean/blob/master/screenshots/HomePage.gif?raw=true)
 
 ### AR.T 
     
-    [AR.T](https://github.com/krish11031998-pythonwhisperer/AR.T) is an art eploration app that allows you to explore art in AR format ! you can checkout the project here!
+   [AR.T](https://github.com/krish11031998-pythonwhisperer/AR.T) is an art eploration app that allows you to explore art in AR format ! you can checkout the project here!
     
-    ![AR.T AR Gif](https://github.com/krish11031998-pythonwhisperer/AR.T/blob/master/Screenshots/detailARView.gif)
+   ![AR.T AR Gif](https://github.com/krish11031998-pythonwhisperer/AR.T/blob/master/Screenshots/detailARView.gif)
 
 ### SUI
 
-    [SUI](https://github.com/krish11031998-pythonwhisperer/SUI) is an  is a simple to use, configure, and integrate SwiftUI style library that can be easily added to your project through cocoapods.
+   [SUI](https://github.com/krish11031998-pythonwhisperer/SUI) is an  is a simple to use, configure, and integrate SwiftUI style library that can be easily added to your project through cocoapods.
 
 ## Image Processing
 
