@@ -7,11 +7,6 @@ My name is Krishna Venkatramani , I am an Developer with an life-time objective 
 
 I have immersed myself in so many different projects that tried solving unique issues at varying capacities. I have dedicated my time learning current trending technologies to bring solutions I want to built to fruition, which as a result , helped me learn "how to learn" new technologies and how to keep myself updated with latest trends in the tech world.
 
-With my recent experience in a cryptocurrency market , I have developed a strong fascination towards to the Blockchain space and my eagerness to contribute to the Blockchain space.
-As a result , you can see that my recent iOS projects are in the cryptocurrency space
-
-I have also built projects for different fields ranging from Image Processing , Web development and backend development
-
 # Portfolio
 
 ## iOS
