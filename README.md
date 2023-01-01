@@ -8,7 +8,7 @@ I have immersed myself in so many different projects that tried solving unique i
 
 # iOS
 
-<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventDetail.png?raw=true" width="100" height="100">
+<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/ItunesArtwork@2x.png?raw=true" width="100" height="100">
 
 ### Signal
 
