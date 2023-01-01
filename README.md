@@ -1,15 +1,24 @@
-
 # 🚀 About Me
 
 Hi 👋
 
 My name is Krishna Venkatramani , I am an Developer with an life-time objective to develop software solutions that addresses issues that affect the society and solutions that cater to the society's needs.
 
-I have immersed myself in so many different projects that tried solving unique issues at varying capacities. I have dedicated my time learning current trending technologies to bring solutions I want to built to fruition, which as a result , helped me learn "how to learn" new technologies and how to keep myself updated with latest trends in the tech world.
+I have immersed myself in so many different projects that tried solving unique issues at varying capacities. I have dedicated my time learning current trending technologies to bring solutions I want to built to fruition, which as a result , helped me pick up effective learning skills , picking up new technologies and keep myself updated with latest trends in the tech world.
 
-# Portfolio
+# iOS
 
-## iOS
+![SignalAppImage]()
+## Signal
+[Signal](https://github.com/krish11031998-pythonwhisperer/Signal) is a Cryptocurrency News Aggregator that aggreates news from:
+* Twitter
+* News Articles
+* Youtube Videos
+
+And curates event based news feeds for specific tickers.
+App will be released in the **App Store** soon 
+
+<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeFeed.png?raw=true" width="50" height="50">
 
 ### Zeam Finance
 [Zeam Finance](https://github.com/krish11031998-pythonwhisperer/ZeamFinance) is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
@@ -48,7 +57,7 @@ We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/ur
 
 ## Image Processing
 
-4. NDVI Image Processing Project
+    NDVI Image Processing Project
 
     This is an Image Processing Project that was built on Python to leverage Image Processing libraries like OpenCV to monitor the health of the plant by evaluating the metrics like NDVI(Normalized Vegetation Differential Index) which can be evaluated based on the amount of infra-red light that is reflected by plants (high infra-red light reflected = healthy plant & low infra-red light relfected = unhealthy). More description available in the repo : [NDVI](https://github.com/krish11031998-pythonwhisperer/NDVI_GNDVI_ImageProcessing)
 
