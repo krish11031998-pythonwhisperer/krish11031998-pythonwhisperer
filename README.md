@@ -18,7 +18,7 @@ I have immersed myself in so many different projects that tried solving unique i
 And curates event based news feeds for specific tickers.
 App will be released in the **App Store** soon 
 
-<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeFeed.png?raw=true" width=50% height=50%>
+<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeFeed.png?raw=true" width=25% height=25%>
 
 ### Zeam Finance
 [Zeam Finance](https://github.com/krish11031998-pythonwhisperer/ZeamFinance) is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
@@ -27,7 +27,7 @@ while providing cashback reward that rewards users with our custom made cryptocu
 
 We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/urn:li:activity:6986773305231872000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6986773305231872000%29)
 
-<img src="https://github.com/krish11031998-pythonwhisperer/ZeamFinance/blob/master/Screenshots/QRPayment.gif?raw=true" width=50% height=50%>
+<img src="https://github.com/krish11031998-pythonwhisperer/ZeamFinance/blob/master/Screenshots/QRPayment.gif?raw=true" width=25% height=25%>
      
 ![Headlines Page](https://github.com/krish11031998-pythonwhisperer/Signal/blob/main/Screenshot/Headlines.png?raw=true)
 
