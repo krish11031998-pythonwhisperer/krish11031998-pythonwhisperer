@@ -8,8 +8,10 @@ I have immersed myself in so many different projects that tried solving unique i
 
 # iOS
 
-![SignalAppImage]()
-## Signal
+<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventDetail.png?raw=true" width="100" height="100">
+
+### Signal
+
 [Signal](https://github.com/krish11031998-pythonwhisperer/Signal) is a Cryptocurrency News Aggregator that aggreates news from:
 * Twitter
 * News Articles
@@ -18,23 +20,39 @@ I have immersed myself in so many different projects that tried solving unique i
 And curates event based news feeds for specific tickers.
 App will be released in the **App Store** soon 
 
-<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeFeed.png?raw=true" width=25% height=25%>
-<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventDetail.png?raw=true" width=25% height=25%>
-<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/TweetDetail.gif?raw=true" width=25% height=25%>
+> Technologies Used for Signal
+> * UIKit
+> * Combine
+> * Auto-Layout
+
+<p align="center">
+      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeFeed.png?raw=true" width=25% height=25% align="left">
+      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventDetail.png?raw=true" width=25% height=25%>
+</p>
+
+<p align="left">
+      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/TweetDetail.gif?raw=true" width=25% height=25%>
+</p>
 
 ### Zeam Finance
 [Zeam Finance](https://github.com/krish11031998-pythonwhisperer/ZeamFinance) is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
 where we were building an platform that offered payments solutions that can be easily adopted by SMEs which offers a seamless payment experience 
 while providing cashback reward that rewards users with our custom made cryptocurrency.
 
+> Technologies Used for Zeam Finance
+> * UIKit
+> * Auto-Layout
+
 We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/urn:li:activity:6986773305231872000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6986773305231872000%29)
 
 <img src="https://github.com/krish11031998-pythonwhisperer/ZeamFinance/blob/master/Screenshots/QRPayment.gif?raw=true" width=25% height=25%>
-     
-![Headlines Page](https://github.com/krish11031998-pythonwhisperer/Signal/blob/main/Screenshot/Headlines.png?raw=true)
 
 ### ArtOcean
    It is a NFT marketplace app, that started of as design-study, but evolved into a project that is currently being developed with couple of USPs that leverages Blockchain and state-of-the-art technologies like Augmented Reality.
+   
+> Technologies Used for Zeam Finance
+> * UIKit
+> * Auto-Layout
    
    For the time being, only a static version of the app (without Augmented Reality) has public access which can seen here : [ArtOcean](https://github.com/krish11031998-pythonwhisperer/ArtOcean)
 
@@ -44,7 +62,13 @@ We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/ur
     
    [AR.T](https://github.com/krish11031998-pythonwhisperer/AR.T) is an art eploration app that allows you to explore art in AR format ! you can checkout the project here!
     
-   ![AR.T AR Gif](https://github.com/krish11031998-pythonwhisperer/AR.T/blob/master/Screenshots/detailARView.gif)
+> Technologies Used for AR.T
+> * SwiftUI
+> * RealityKit
+> * SceneKit
+> * SUI (My Custom Built Library)
+    
+<img src="https://github.com/krish11031998-pythonwhisperer/AR.T/blob/master/Screenshots/detailARView.gif" width=25% height=25%>
 
 ### SUI
 
@@ -58,7 +82,7 @@ We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/ur
 
 ## Backend
 
-5. CrybseServer
+### CrybseServer
 
    CrybseServer is a News-Media aggregator to retrieve tweets, cryptocurrency pricing , news articles, videos and every media related to crypto. this project was built to complement the iOS App (which is currently under development) , The backend will be up and running by the mid-Oct on railway.app as a Beta release along with the iOS App: [CrybseServer](https://github.com/krish11031998-pythonwhisperer/CrybseServer)
 
