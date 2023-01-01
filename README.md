@@ -19,6 +19,8 @@ And curates event based news feeds for specific tickers.
 App will be released in the **App Store** soon 
 
 <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeFeed.png?raw=true" width=25% height=25%>
+<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventDetail.png?raw=true" width=25% height=25%>
+<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/TweetDetail.gif?raw=true" width=25% height=25%>
 
 ### Zeam Finance
 [Zeam Finance](https://github.com/krish11031998-pythonwhisperer/ZeamFinance) is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
