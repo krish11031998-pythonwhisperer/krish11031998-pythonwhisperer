@@ -27,14 +27,7 @@ while providing cashback reward that rewards users with our custom made cryptocu
 
 We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/urn:li:activity:6986773305231872000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6986773305231872000%29)
 
-![QR Code Payment](https://github.com/krish11031998-pythonwhisperer/ZeamFinance/blob/master/Screenshots/QRPayment.gif?raw=true)
-
-### Signal (Still Under development)
-   
-   [Signal](https://github.com/krish11031998-pythonwhisperer/Signal) is a Cryptocurrency News Aggregator that aggreates news from:
-        - Twitter
-        - News Articles
-        - Youtube Videos
+<img src="https://github.com/krish11031998-pythonwhisperer/ZeamFinance/blob/master/Screenshots/QRPayment.gif?raw=true" width=50% height=50%>
      
 ![Headlines Page](https://github.com/krish11031998-pythonwhisperer/Signal/blob/main/Screenshot/Headlines.png?raw=true)
 
@@ -57,9 +50,9 @@ We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/ur
 
 ## Image Processing
 
-    NDVI Image Processing Project
+   NDVI Image Processing Project
 
-    This is an Image Processing Project that was built on Python to leverage Image Processing libraries like OpenCV to monitor the health of the plant by evaluating the metrics like NDVI(Normalized Vegetation Differential Index) which can be evaluated based on the amount of infra-red light that is reflected by plants (high infra-red light reflected = healthy plant & low infra-red light relfected = unhealthy). More description available in the repo : [NDVI](https://github.com/krish11031998-pythonwhisperer/NDVI_GNDVI_ImageProcessing)
+   * This is an Image Processing Project that was built on Python to leverage Image Processing libraries like OpenCV to monitor the health of the plant by evaluating the metrics like NDVI(Normalized Vegetation Differential Index) which can be evaluated based on the amount of infra-red light that is reflected by plants (high infra-red light reflected = healthy plant & low infra-red light relfected = unhealthy). More description available in the repo : [NDVI](https://github.com/krish11031998-pythonwhisperer/NDVI_GNDVI_ImageProcessing)
 
 ## Backend
 
