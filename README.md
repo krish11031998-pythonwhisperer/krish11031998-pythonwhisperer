@@ -26,8 +26,8 @@ App will be released in the **App Store** soon
 > * Auto-Layout
 
 <p align="center">
-      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeFeed.png?raw=true" width=25% height=25% align="left">
-      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventDetail.png?raw=true" width=25% height=25%>
+      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeScreen.png?raw=true" width=25% height=25% align="left">
+      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventDetail.png?raw=true" width=25% height=25% align="right>
 </p>
 
 <p align="left">
