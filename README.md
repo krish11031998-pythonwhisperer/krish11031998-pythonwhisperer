@@ -2,17 +2,17 @@
 
 Hi 👋
 
-My name is Krishna Venkatramani , I am an Developer with an life-time objective to develop software solutions that addresses issues that affect the society and solutions that cater to the society's needs.
+My name is Krishna Venkatramani , I am an Developer with an objective to develop software solutions that addresses issues that affect the society and solutions that cater to the society's needs.
 
-I have immersed myself in so many different projects that tried solving unique issues at varying capacities. I have dedicated my time learning current trending technologies to bring solutions I want to built to fruition, which as a result , helped me pick up effective learning skills , picking up new technologies and keep myself updated with latest trends in the tech world.
+I have immersed myself in so many different projects that has tried to solve unique issues at varying capacities, from project that's main focus was to provide AR classical art exploration/experiences to building platforms to aggregate social feeds for cryptocurrency. I have dedicated my time learning trending technologies to bring solutions I want to built to fruition, which as a result , helped me pick up effective learning skills , picking up new technologies and keep myself updated with latest trends in the tech world.
 
 # iOS
 
 <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/ItunesArtwork@2x.png?raw=true" width="100" height="100">
 
-### Signal
+### Dekrypt
 
-[Signal](https://github.com/krish11031998-pythonwhisperer/Signal) is a Cryptocurrency News Aggregator that aggreates news from:
+[Dekrypt](https://github.com/krish11031998-pythonwhisperer/Dekrypt) is a Cryptocurrency News Aggregator that aggreates news from:
 * Twitter
 * News Articles
 * Youtube Videos
