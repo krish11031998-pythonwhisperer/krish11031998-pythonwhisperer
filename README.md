@@ -26,11 +26,10 @@ App will be released in the **App Store** soon
 > * Auto-Layout
 
 <p align="left">
-      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeScreen.png?raw=true" width=25% height=25% align="left"/>
-      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventsDetail.png?raw=true" width=25% height=25% align="left"/>
-                                                                                                                                                     <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/TweetFeed.png?raw=true" width=25% height=25% align="left"/>
+      <img src="https://github.com/krish11031998-pythonwhisperer/Dekrypt/blob/master/Screenshot/HomeScreen.gif?raw=true" width=25% height=25% align="left/">
+      <img src="https://github.com/krish11031998-pythonwhisperer/Dekrypt/blob/master/Screenshot/TweetDetail.png?raw=true" width=25% height=25% align="left"/>
+       <img src="https://github.com/krish11031998-pythonwhisperer/Dekrypt/blob/master/Screenshot/EventsDetail.png?raw=true" width=25% height=25% align="left"/>
 </p>
-
 
 ### Zeam Finance
 [Zeam Finance](https://github.com/krish11031998-pythonwhisperer/ZeamFinance) is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
