@@ -27,8 +27,8 @@ App will be released in the **App Store** soon
 
 <p align="left">
       <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/HomeScreen.png?raw=true" width=25% height=25% align="left"/>
-      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventDetail.png?raw=true" width=25% height=25% align="left"/>
-                                                                                                                                                     <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/TweetDetail.gif?raw=true" width=25% height=25% align="left/">
+      <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/EventsDetail.png?raw=true" width=25% height=25% align="left"/>
+                                                                                                                                                     <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/TweetFeed.gif?raw=true" width=25% height=25% align="left/">
 </p>
 
 ### Zeam Finance
