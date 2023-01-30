@@ -110,6 +110,8 @@ We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/ur
     * UIKit
     * SwiftUI
     * CoreAnimation
+    * Combine
+    * RxSwift
 2. Front End
     * ReactJS
     * CSS
