@@ -1,10 +1,10 @@
 # 🚀 About Me
 
-Hi 👋
+Hello 👋,
 
-My name is Krishna Venkatramani , I am an Developer with an objective to develop software solutions that addresses issues that affect the society and built solutions that cater to the society's needs.
+My name is Krishna Venkatramani, and I am a developer who is passionate about developing software solutions that address societal issues and cater to the community's needs. With a broad range of experience in different projects, I have tackled unique challenges, from creating AR classical art exploration/experiences to developing platforms for aggregating social feeds for cryptocurrency.
 
-I have immersed myself in so many different projects that has tried to solve unique issues at varying capacities, from project that's main focus was to provide AR classical art exploration/experiences to building platforms to aggregate social feeds for cryptocurrency. I have dedicated my time learning trending technologies to bring solutions I want to built to fruition, which as a result , helped me pick up effective learning skills , picking up new technologies and keep myself updated with latest trends in the tech world.
+I constantly strive to learn new and trending technologies to bring my ideas to life. This approach has helped me develop effective learning skills and keep myself up-to-date with the latest tech trends. My ultimate goal is to contribute to the society by building innovative solutions that have a positive impact.
 
 # iOS
 
