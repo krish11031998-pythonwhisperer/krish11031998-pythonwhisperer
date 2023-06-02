@@ -8,6 +8,20 @@ I constantly strive to learn new and trending technologies to bring my ideas to 
 
 # iOS
 
+<img src="https://firebasestorage.googleapis.com/v0/b/mpcstore-1.appspot.com/o/Images%2FMPC_ART_Logo_Thumbnail.jpg?alt=media&token=6dd889aa-5d24-4492-8146-53a3bf2d6c82&_gl=1*1pazri4*_ga*MTc3Njk4NDY1Ny4xNjUwOTAyMDg5*_ga_CW55HF8NVT*MTY4NTcyMDU5NC43NC4xLjE2ODU3MjA2NjUuMC4wLjA." width="100" height="100">
+
+### MPC Art & NFT Gallery
+[MPC Art & NFT Gallery](https://apps.apple.com/ae/app/mpc-art-nft-gallery/id6446897570) is a AR Gallery Application where users can explore art peices from exciting artist who create art that can be experienced in Augmented Reality
+
+Technologies used
+* UIKit
+* ARKit
+* Combine
+* Firebase (for backend management)
+
+Current Version: 1.0.0 
+Next Version: 1.0.1 (scheduled for Monday 5th June 2023)
+
 <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/ItunesArtwork@2x.png?raw=true" width="100" height="100">
 
 ### Dekrypt
