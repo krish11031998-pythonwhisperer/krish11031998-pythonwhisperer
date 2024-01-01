@@ -24,7 +24,7 @@ Next Version: 1.0.1 (scheduled for Monday 5th June 2023)
 
 <img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/ItunesArtwork@2x.png?raw=true" width="100" height="100">
 
-### Dekrypt
+### Dekrypt (OutDated, Update to description coming soon)
 
 [Dekrypt](https://github.com/krish11031998-pythonwhisperer/Dekrypt) is a Cryptocurrency News Aggregator that aggreates news from:
 * Twitter
