@@ -22,12 +22,12 @@ Technologies used
 Current Version: 1.0.0 
 Next Version: 1.0.1 (scheduled for Monday 5th June 2023)
 
-<img src="https://github.com/krish11031998-pythonwhisperer/Signal/blob/master/Screenshot/ItunesArtwork@2x.png?raw=true" width="100" height="100">
+<img src="https://github.com/krish11031998-pythonwhisperer/dekrypt-ios/blob/master/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="100" height="100">
 
-### Dekrypt (OutDated, Update to description coming soon)
+### Dekrypt
 
-[Dekrypt](https://github.com/krish11031998-pythonwhisperer/Dekrypt) is a Cryptocurrency News Aggregator that aggreates news from:
-* Twitter
+[Dekrypt](https://github.com/krish11031998-pythonwhisperer/dekrypt-ios) is a Cryptocurrency News Aggregator that aggreates news from:
+* Events
 * News Articles
 * Youtube Videos
 
@@ -36,16 +36,12 @@ App will be released in the **App Store** soon
 
 > Technologies Used for Signal
 > * UIKit
+> * SwiftUI
+> * Swift Package Manager
 > * Combine
 > * Auto-Layout
 
-<p align="left">
-      <img src="https://github.com/krish11031998-pythonwhisperer/Dekrypt/blob/master/Screenshot/HomeScreen.gif?raw=true" width=25% height=25% align="left/">
-      <img src="https://github.com/krish11031998-pythonwhisperer/Dekrypt/blob/master/Screenshot/TweetDetail.png?raw=true" width=25% height=25% align="left"/>
-       <img src="https://github.com/krish11031998-pythonwhisperer/Dekrypt/blob/master/Screenshot/EventsDetail.png?raw=true" width=25% height=25% align="left"/>
-</p>
-
-App available on [TestFlight](https://testflight.apple.com/join/hJEPAHw2)
+App available on [TestFlight](https://testflight.apple.com/join/ZKYUpfgZ)
 
 ### Zeam Finance
 [Zeam Finance](https://github.com/krish11031998-pythonwhisperer/ZeamFinance) is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
