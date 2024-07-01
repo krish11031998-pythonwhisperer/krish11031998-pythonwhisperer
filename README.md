@@ -34,7 +34,7 @@ Next Version: 1.0.1 (scheduled for Monday 5th June 2023)
 And curates event based news feeds for specific tickers.
 App will be released in the **App Store** soon 
 
-> Technologies Used for Signal
+> Technologies Used for Dekrypt
 > * UIKit
 > * SwiftUI
 > * Swift Package Manager
