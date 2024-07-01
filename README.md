@@ -13,11 +13,11 @@ I constantly strive to learn new and trending technologies to bring my ideas to 
 ### MPC Art & NFT Gallery
 [MPC Art & NFT Gallery](https://apps.apple.com/ae/app/mpc-art-nft-gallery/id6446897570) is a AR Gallery Application where users can explore art peices from exciting artist who create art that can be experienced in Augmented Reality
 
-Technologies used
-* UIKit
-* ARKit
-* Combine
-* Firebase (for backend management)
+> Technologies used
+> * UIKit
+> * ARKit
+> * Combine
+> * Firebase (for backend management)
 
 Current Version: 1.0.0 
 Next Version: 1.0.1 (scheduled for Monday 5th June 2023)
