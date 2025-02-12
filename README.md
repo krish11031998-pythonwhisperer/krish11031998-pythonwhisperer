@@ -8,6 +8,20 @@ I constantly strive to learn new and trending technologies to bring my ideas to 
 
 # iOS
 
+<img src="https://github.com/krish11031998-pythonwhisperer/Vanor/blob/master/Vane/Assets/Assets.xcassets/AppIcon.appiconset/1024.png" width="100" height="100">
+
+# Vanor 
+
+[Vanor](https://testflight.apple.com/join/nC6XBsfY) is a Habit Tracking that allows users to track their habits and track their progress, state of mind and streak throughout their habit forming journey
+
+> Technologies used
+> * UIKit
+> * SwiftUI
+> * Swift Package Manager (Modular Approach Build)
+> * Combine
+
+
+
 <img src="https://firebasestorage.googleapis.com/v0/b/mpcstore-1.appspot.com/o/Images%2FMPC_ART_Logo_Thumbnail.jpg?alt=media&token=6dd889aa-5d24-4492-8146-53a3bf2d6c82&_gl=1*1pazri4*_ga*MTc3Njk4NDY1Ny4xNjUwOTAyMDg5*_ga_CW55HF8NVT*MTY4NTcyMDU5NC43NC4xLjE2ODU3MjA2NjUuMC4wLjA." width="100" height="100">
 
 ### MPC Art & NFT Gallery
@@ -19,8 +33,7 @@ I constantly strive to learn new and trending technologies to bring my ideas to 
 > * Combine
 > * Firebase (for backend management)
 
-Current Version: 1.0.0 
-Next Version: 1.0.1 (scheduled for Monday 5th June 2023)
+
 
 <img src="https://github.com/krish11031998-pythonwhisperer/dekrypt-ios/blob/master/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="100" height="100">
 
@@ -43,6 +56,7 @@ App will be released in the **App Store** soon
 
 App available on [TestFlight](https://testflight.apple.com/join/ZKYUpfgZ)
 
+
 ### Zeam Finance
 [Zeam Finance](https://github.com/krish11031998-pythonwhisperer/ZeamFinance) is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
 where we were building an platform that offered payments solutions that can be easily adopted by SMEs which offers a seamless payment experience 
@@ -55,6 +69,7 @@ while providing cashback reward that rewards users with our custom made cryptocu
 We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/urn:li:activity:6986773305231872000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6986773305231872000%29)
 
 <img src="https://github.com/krish11031998-pythonwhisperer/ZeamFinance/blob/master/Screenshots/QRPayment.gif?raw=true" width=25% height=25%>
+
 
 ### ArtOcean
    It is a NFT marketplace app, that started of as design-study, but evolved into a project that is currently being developed with couple of USPs that leverages Blockchain and state-of-the-art technologies like Augmented Reality.
