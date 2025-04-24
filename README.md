@@ -6,7 +6,7 @@ My name is Krishna Venkatramani, and I am a developer who is passionate about de
 
 I constantly strive to learn new and trending technologies to bring my ideas to life. This approach has helped me develop effective learning skills and keep myself up-to-date with the latest tech trends. My ultimate goal is to contribute to the society by building innovative solutions that have a positive impact.
 
-Visit my bento to check out the current projects I am working on at the moment !
+Visit my [bento](https://bento.me/krsna-venky) to check out the current projects I am working on at the moment !
 
 # iOS
 
