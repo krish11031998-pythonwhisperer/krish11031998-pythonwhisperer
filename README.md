@@ -6,13 +6,16 @@ My name is Krishna Venkatramani, and I am a developer who is passionate about de
 
 I constantly strive to learn new and trending technologies to bring my ideas to life. This approach has helped me develop effective learning skills and keep myself up-to-date with the latest tech trends. My ultimate goal is to contribute to the society by building innovative solutions that have a positive impact.
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-venkatramani-969572121/)
+
 Visit my [bento](https://bento.me/krsna-venky) to check out the current projects I am working on at the moment !
 
-# iOS
+# Indie & Freelance Projects
 
-<img src="https://github.com/krish11031998-pythonwhisperer/Vanor/blob/master/Vane/Assets/Assets.xcassets/AppIcon.appiconset/1024.png" width="100" height="100">
+<img src="https://firebasestorage.googleapis.com/v0/b/mpcstore-1.appspot.com/o/Miscelleanous%2F1024.png?alt=media&token=425b799d-4654-4b2f-a980-1144dde0d672" width="100" height="100">
 
-# Vanor 
+### Vanor 
 
 [Vanor](https://testflight.apple.com/join/nC6XBsfY) is a Habit Tracking that allows users to track their habits and track their progress, state of mind and streak throughout their habit forming journey
 
@@ -21,8 +24,6 @@ Visit my [bento](https://bento.me/krsna-venky) to check out the current projects
 > * SwiftUI
 > * Swift Package Manager (Modular Approach Build)
 > * Combine
-
-
 
 <img src="https://firebasestorage.googleapis.com/v0/b/mpcstore-1.appspot.com/o/Images%2FMPC_ART_Logo_Thumbnail.jpg?alt=media&token=6dd889aa-5d24-4492-8146-53a3bf2d6c82&_gl=1*1pazri4*_ga*MTc3Njk4NDY1Ny4xNjUwOTAyMDg5*_ga_CW55HF8NVT*MTY4NTcyMDU5NC43NC4xLjE2ODU3MjA2NjUuMC4wLjA." width="100" height="100">
 
@@ -34,30 +35,6 @@ Visit my [bento](https://bento.me/krsna-venky) to check out the current projects
 > * ARKit
 > * Combine
 > * Firebase (for backend management)
-
-
-
-<img src="https://github.com/krish11031998-pythonwhisperer/dekrypt-ios/blob/master/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="100" height="100">
-
-### Dekrypt
-
-[Dekrypt](https://github.com/krish11031998-pythonwhisperer/dekrypt-ios) is a Cryptocurrency News Aggregator that aggreates news from:
-* Events
-* News Articles
-* Youtube Videos
-
-And curates event based news feeds for specific tickers.
-App will be released in the **App Store** soon 
-
-> Technologies Used for Dekrypt
-> * UIKit
-> * SwiftUI
-> * Swift Package Manager
-> * Combine
-> * Auto-Layout
-
-App available on [TestFlight](https://testflight.apple.com/join/ZKYUpfgZ)
-
 
 ### Zeam Finance
 [Zeam Finance](https://github.com/krish11031998-pythonwhisperer/ZeamFinance) is a app I built for the [FutureHack Hackathon at Global DevSlam](https://www.hack.globaldevslam.com/futurehack)
@@ -71,18 +48,6 @@ while providing cashback reward that rewards users with our custom made cryptocu
 We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/urn:li:activity:6986773305231872000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6986773305231872000%29)
 
 <img src="https://github.com/krish11031998-pythonwhisperer/ZeamFinance/blob/master/Screenshots/QRPayment.gif?raw=true" width=25% height=25%>
-
-
-### ArtOcean
-   It is a NFT marketplace app, that started of as design-study, but evolved into a project that is currently being developed with couple of USPs that leverages Blockchain and state-of-the-art technologies like Augmented Reality.
-   
-> Technologies Used for Zeam Finance
-> * UIKit
-> * Auto-Layout
-   
-   For the time being, only a static version of the app (without Augmented Reality) has public access which can seen here : [ArtOcean](https://github.com/krish11031998-pythonwhisperer/ArtOcean)
-
-   ![ArtOcean Home Gif](https://github.com/krish11031998-pythonwhisperer/ArtOcean/blob/master/screenshots/HomePage.gif?raw=true)
 
 ### AR.T 
     
@@ -125,12 +90,6 @@ We won the [Most Creative Concept Prize](https://www.linkedin.com/feed/update/ur
 8. Tripping Website
 
     It was a website I built for the Trippin App for showcasing the product and iOS app , built using ReactJS, HTML, CSS and ReactSprings: [Trippin](https://github.com/krish11031998-pythonwhisperer/TrippinWebsite)
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-venkatramani-969572121/)
-
-
 
 
 ## 🛠 Skills
