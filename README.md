@@ -2,9 +2,13 @@
 
 Hello 👋,
 
-My name is Krishna Venkatramani, and I am a developer who is passionate about developing software solutions that address societal issues and cater to the community's needs. With a broad range of experience in different projects, I have tackled unique challenges, from creating AR classical art exploration/experiences to developing platforms for aggregating social feeds for cryptocurrency.
+I'm Krishna Venkatramani, a developer passionate about building software that tackles real societal challenges and supports community needs. Over the years, I’ve worked across a wide range of projects—from AR experiences that reimagine classical art to platforms that aggregate social feeds for the crypto space.
 
-I constantly strive to learn new and trending technologies to bring my ideas to life. This approach has helped me develop effective learning skills and keep myself up-to-date with the latest tech trends. My ultimate goal is to contribute to the society by building innovative solutions that have a positive impact.
+Currently, I’m building health-focused mobile apps at Perigee, including Seven and Halo, where I’ve deepened my focus on user-centered design and behavior-driven product development. On the side, I launched Vanor, an indie habit-tracking app designed to help users build consistency with emotional awareness in mind. I also serve as the CTO and Co-Founder of Give-Give, a toy-swapping platform that encourages sustainability and reuse within local communities.
+
+I’m always exploring new technologies and ideas, and that drive has helped me stay adaptive and build products with real-world value. My mission is to keep creating solutions that make a lasting, positive impact.
+
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-venkatramani-969572121/)
